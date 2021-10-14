@@ -8,6 +8,7 @@ fastapi = "==0.70.0"
 uvicorn = "==0.15.0"
 standard = "*"
 pydantic = "==1.8.2"
+pytest = "==6.2.5"
 
 [dev-packages]
 
